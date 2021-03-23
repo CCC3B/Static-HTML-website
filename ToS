@@ -1,0 +1,39 @@
+<html lang="en">
+  <head>
+    <title>TechBalloon!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+    <header>    
+      <h1>TechBalloon</h1> 
+    </header>
+  </head>  
+
+  <body>   
+
+    <nav><a href="index.html">Home</a> <a href="Join.html">Join</a>  <a href="aboutUs.html">About</a> <a href="membership.html">Membership</a> <a href="services.html">Services</a></nav>
+    
+    <main>  	
+    <h3>
+            This website is a personal project and your information is completely exposed and unprotected. It is highly suggested that whomever uses this registration function enters fictional information just to test the website. All rights of any pictures, music or other copyrighted material used in this site goes to the following organizations.
+
+      </h3>
+      <ul class="wak">
+            <li><a href="https://www.amazon.com">Amazon</a></li>
+            <li><a href="https://www.walmart.com/">Walmart</a></li>    
+            <li><a href="https://www.microcenter.com/">Microcenter</a>
+              <li><a href="https://computerrepairdoctor.com/locations/raleigh/mac-repair/">ComputerRepairDoctor.com</a></li>
+            <li><a href="http://getwallpapers.com/collection/black-and-blue-tech-wallpaper">GetWallPapers</a></li>
+        </li>
+            
+      </ul>
+    </main>
+    <hr>
+    </body>
+</html>

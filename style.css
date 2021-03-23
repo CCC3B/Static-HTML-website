@@ -1,0 +1,280 @@
+/* CSS files add styling rules to your content */
+
+
+body {
+  margin: 4em;
+  background-image:url(https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Fback.jpg?v=1576389763541);
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  color:#003333;
+  font-weight: bold;
+
+    }
+
+
+nav 
+    {
+      
+   font-weight: bold;
+   background-color:#0C141A;
+	 padding: 20px;
+   word-spacing: 30px;
+   font-size: 30px;
+   text-align: center;
+   color: white;
+   border: double;
+   font-weight:bold;
+   text-decoration: none;
+   font-color:#EFC900;
+
+    }
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+input[type=text], input[type=Address],  input[type=Password]:focus, input[type=number]:focus, input[type=Address]:focus {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=Address]:focus, input[type=Password]:focus, input[type=number]:focus, input[type=Address]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr.x{
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+
+}
+nav a:visited 
+	{
+	color:#C76736;
+	}
+
+nav a:hover 
+	{
+	color:white;
+	}
+
+
+header {
+  text-align: center;
+  text-decoration: underline overline;
+  background-image: url(https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Faha.jpg?v=1576400279754);
+  font-size: XX-large;
+  color: #EFC900;;
+
+  font-family:Impact;
+  border:double;
+  border-color:white;
+  border-width: 4px;
+      }
+
+img.v
+
+{ 
+  border: dashed;
+  padding-top:1px;
+  padding-left:1px;
+  Opacity:0.50
+  left:50%;
+}
+
+h1 {
+  text-align: center;
+  text-color: #EFC900;
+  Opacity :2.75;
+  text-shadow: 2px 2px #00CCCC;
+
+  }
+
+  
+  h3 
+  {
+  text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+  font-size: 2.5em;
+  color: #00CCCC;
+  background-color:#06206F;
+
+  }
+
+footer {
+  text-align:center;
+  font-weight:bold;
+      }
+
+table.m
+{
+   
+    background-color:white;
+    width:100%;
+    overflow: auto;
+
+
+}
+
+th.g
+{
+  width: 50%;
+  background-color:white;
+}
+
+th img
+{
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+li 
+{
+  padding: 20px;
+  padding-right:none;
+}
+
+p.k
+{
+  font-style: italic;
+  font-size: 20px;
+  color:#0C324C;
+  background-color:gray;
+}
+
+
+main
+{
+  background-color: white
+}
+/*Membership Table*/
+table.blueTable {
+  border: 2px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: auto;
+  height: auto;
+  text-align: left;
+  border-collapse: collapse;
+  
+}
+table.blueTable td, table.blueTable th {
+  border: 0px solid #AAAAAA;
+  padding: 5px 5px;
+
+}
+table.blueTable tbody td {
+  font-size: 15px;
+  color: #420000;
+}
+table.blueTable td:nth-child(even) {
+  background: #8FCBF2;
+}
+table.blueTable thead {
+  background: #058152;
+  border-bottom: 7px solid #404344;
+}
+table.blueTable thead th {
+  font-size: 19px;
+  font-weight: bold;
+  color: #4BE3C3;
+  border-left: 3px solid #F5F5F5;
+  background-color: black;
+ font-family: Impact, Charcoal, sans-serif;
+
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable tfoot td {
+  font-size: 9px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+   border-radius: 5px;
+
+}
+
+main.iki
+{
+  background-image:url(https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Fbas2.jpg?v=1576501726255)
+}
+
+p.About
+{
+    background-color:white;
+    font-size: 25px;
+    text-align: justify;
+    border:double;
+    brder-border-opacity:1;
+    opacity: 5;
+
+
+}
+
+h2.About
+{
+  background-color:black;
+  text-decoration: underline overline;
+}
+ div.kek
+{
+  margin: auto;
+  padding:auto;
+  left:50%;
+  
+}
+
+div.blue
+{
+  background-color:#06206F;
+  padding:2%;
+  font-size:2em;
+  color:#00CCCC;
+}
+h3.ser
+{
+  padding:3%;
+  background-color:#06206F;
+
+}
+
+hr.ser
+{
+    opacity: 0.5;
+
+}

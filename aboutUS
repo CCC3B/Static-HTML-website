@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TechBalloon!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+    <header>    
+      <h1>TechBalloon</h1> 
+    </header>
+  </head>  
+
+  <body>   
+    <nav><a href="index.html">Home</a> <a href="Join.html">Join</a>  <a href="aboutUs.html">About</a> <a href="membership.html">Membership</a> <a href="services.html">Services</a></nav>
+  
+    <main class="iki">   
+          <h2 class="About"><font color="#C5E8E6" weight="boldes" style="italic"><center><img src="https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Flod.jpg?v=1576503686953" alt="lod"><img>"Selling reasonbility at reasonble price with reasonable means"<img src="https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Flod.jpg?v=1576503686953" alt="lod"></center><img></font></h2> 
+
+    	
+    <p class="About">      
+
+      TechBalloon is a company found by Edward Rubin and Lyla Erron in 2008. The company was originally a book store but has now branched to become a technology center for the average consumer. What sets Techballoon apart is our competitive pricing, engaging membership system, and efficient inventory management. We pride ourselves in our ability to meet the average expectations and allow people to buy their needed services and electronic merchandise without any hassles or schemes. Our founders intended for the company to keep its integrity and community bond even if it meant not growing, and years after that, we still hold our relationship with individual customers at higher regard than anything else!
+      </p>
+      <table class="m">
+      <th class="ab">
+      <div class="kek">
+  <div class="kek" style="width:50%">
+    <img src="https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Fboss1.png?v=1576504850682" alt="Person" height="200" width="200">
+    <div class="kek">
+      <h4><b> Lyla Erron</b></h4>
+      <p>Founder and CEO</p>
+    </div>
+        </div>
+        </div></th>
+  <br>
+        
+  <th class="ab">
+  <div class="w3-card-4" style="width:50%"   background color="37001F">
+    <img src="https://cdn.glitch.com/f6a8cf35-3195-4560-9246-f66ae39d507b%2Fboss2.png?v=1576504846448" alt="Person" width="200" height="200">
+    <div class="kek">
+      <h4><b>Edward Rubin</b></h4>
+      <p>Founder and CEO</p>
+      
+    </div>
+  </div>
+  
+</th>
+      </table>
+    </main>
+  </body>
+</html>
